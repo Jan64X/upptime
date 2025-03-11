@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 635,
     "timeDay": 715,
-    "timeWeek": 635,
+    "timeWeek": 629,
     "timeMonth": 635,
     "timeYear": 635,
     "dailyMinutesDown": {}
@@ -22,19 +22,19 @@
     "url": "https://gitlab.dotbin.dev",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.dotbin.dev.ico",
     "slug": "personal-git-lab",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1112,
-    "timeDay": 1002,
-    "timeWeek": 1112,
-    "timeMonth": 1112,
-    "timeYear": 1112,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 1189,
+    "timeDay": 1397,
+    "timeWeek": 1173,
+    "timeMonth": 1189,
+    "timeYear": 1189,
     "dailyMinutesDown": {
-      "2025-03-11": 0
+      "2025-03-11": 21
     }
   },
   {
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 664,
     "timeDay": 740,
-    "timeWeek": 664,
+    "timeWeek": 663,
     "timeMonth": 664,
     "timeYear": 664,
     "dailyMinutesDown": {}
