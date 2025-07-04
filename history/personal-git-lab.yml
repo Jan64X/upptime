@@ -1,7 +1,7 @@
 url: https://gitlab.dotbin.dev
-status: up
-code: 200
-responseTime: 1040
-lastUpdated: 2025-07-03T23:14:58.314Z
+status: down
+code: 523
+responseTime: 3309
+lastUpdated: 2025-07-04T08:43:47.613Z
 startTime: 2025-03-04T20:18:11.798Z
 generator: Upptime <https://github.com/upptime/upptime>
